@@ -1,0 +1,12 @@
+{
+    "pancake": {
+        "ingredients": [
+            "flour",
+            "egg",
+            "oil",
+            "baking powder",
+            "oven"
+        ],
+        "instructions": "mix oil,egg ,flour and baking powder then put it them for 20 min in the oven"
+    }
+}
